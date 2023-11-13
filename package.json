@@ -28,6 +28,7 @@
   "homepage": "https://github.com/js-ayush-khadka/epita-twitter-clone-g1#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "eslint": "^8.53.0",
     "hardhat": "^2.19.0",
     "prettier": "^3.1.0"
   }
